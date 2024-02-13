@@ -4,3 +4,7 @@ A digital clock that displays time and temperature and has a button to turn back
 Made with a raspberry pi
 
 ![clockPic](https://github.com/DBKorn/DigitalClock/assets/70672608/56854e44-9217-4281-ab8f-6d07d0270f5d)
+
+
+Here's YouTube video of the clock running
+https://youtube.com/watch?v=8-mjtQQEsLo?feature=share
