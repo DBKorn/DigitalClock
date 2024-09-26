@@ -1,8 +1,8 @@
 
 # DigitalClock
 A digital clock that displays time and temperature on  I2C LCD1602 screen and has a button to turn back light on and off. The thermometer functionality is done using a thermistor and an ads7830 to read/format the data.
-The library for the ads7830 is made by Freenove
-Made with a raspberry pi
+The library for the ads7830 is made by Freenove.
+Made with a raspberry pi 4B
 
 ![clockPic](https://github.com/DBKorn/DigitalClock/assets/70672608/56854e44-9217-4281-ab8f-6d07d0270f5d)
 
